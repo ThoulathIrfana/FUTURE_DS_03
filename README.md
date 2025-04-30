@@ -1,7 +1,8 @@
 # FUTURE_DS_03
 # 🚗 Road Accident Analysis Dashboard - Task 3
 
-![Road Safety](https://images.unsplash.com/photo-1595324187974-79efb1550a0b?auto=format&fit=crop&w=1280&q=80)
+![Road Safety](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Achtung_Abbieger_unfallgefahr.jpg/640px-Achtung_Abbieger_unfallgefahr.jpg)
+
 
 
 
