@@ -1,7 +1,8 @@
 # FUTURE_DS_03
 # 🚗 Road Accident Analysis Dashboard - Task 3
 
-![Road Safety](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Accident_warning_sign.jpg/640px-Accident_warning_sign.jpg)
+![Road Accident](https://images.pexels.com/photos/11656440/pexels-photo-11656440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+
 
 ## 📌 Project Overview
 This project is submitted as part of the **Future Interns - Data Science & Analytics Internship (April 2025)**.  
@@ -24,9 +25,11 @@ Data visualization is done using **Power BI**.
 
 ## 📁 Dataset Files
 
+```
 ├── accidentsbig.csv      # Accident details: location, severity, date, etc.  
 ├── casualtiesbig.csv     # Information on people injured or killed  
 ├── vehiclesbig.csv       # Vehicle types, maneuvers, and roles
+```
 
 ---
 
@@ -44,6 +47,13 @@ Data visualization is done using **Power BI**.
 - Filtered by **Accident Severity**, **Day of Week**, **Urban/Rural**, etc.  
 - Identified **hotspots** using map visuals  
 - Severity trends by **weather**, **light**, and **vehicle type**
+
+---
+
+## 📸 Sample Dashboard Screenshot
+
+> ![Road Accident Analysis](https://github.com/user-attachments/assets/241798c4-febb-4338-9009-1078ab5946e0)
+
 
 ---
 
