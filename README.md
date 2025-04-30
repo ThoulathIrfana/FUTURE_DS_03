@@ -5,7 +5,6 @@
 
 
 
-
 ## 📌 Project Overview
 This project is submitted as part of the **Future Interns - Data Science & Analytics Internship (April 2025)**.  
 The goal is to analyze UK road accident data and create a dashboard that reveals:
