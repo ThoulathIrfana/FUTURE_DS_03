@@ -1,7 +1,7 @@
 # FUTURE_DS_03
 # 🚗 Road Accident Analysis Dashboard - Task 3
 
-![Road Safety](https://media.istockphoto.com/id/1180207575/photo/red-warning-triangle-on-the-road.jpg)
+![Road Safety](https://images.unsplash.com/photo-1595324187974-79efb1550a0b?auto=format&fit=crop&w=1280&q=80)
 
 
 
