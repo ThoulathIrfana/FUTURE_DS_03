@@ -1,11 +1,6 @@
 # FUTURE_DS_03
 # 🚗 Road Accident Analysis Dashboard - Task 3
 
-![Road Accident](https://images.pexels.com/photos/11656440/pexels-photo-11656440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
-
-
-
-
 ## 📌 Project Overview
 This project is submitted as part of the **Future Interns - Data Science & Analytics Internship (April 2025)**.  
 The goal is to analyze UK road accident data and create a dashboard that reveals:
